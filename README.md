@@ -6,7 +6,6 @@ A simple and secure terminal-based Python app that helps you track expenses, set
 
 - Password protection prompts on every startup
 - Option to change your password at any time
-- Install dependencies pip install matplotlib
 - 🔐 **Upcoming:** RSA encryption for password and sensitive data
 
 ---
@@ -29,7 +28,7 @@ Enter your target budget to keep your finances in check.
 ### 4️⃣ Calculate Total Spent 📊🧮  
 See how much you've spent in total and whether you're within or over your budget.
 
-### 5️⃣ Visualize Expenses 📈🍕  
+### 5️⃣ Visualize Expenses 📈🍕  (Install dependencies pip install matplotlib)
 Generate a pie chart showing how your money is distributed across categories.
 
 ### 6️⃣ Change Password 🔐🔄  
