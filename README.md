@@ -54,6 +54,3 @@ Cleanly exit the program.
 ## 📦 Installation & Setup
 
 ### 1. Clone the repository
-```bash
-git clone https://github.com/your-username/personal-expense-tracker.git
-cd personal-expense-tracker
